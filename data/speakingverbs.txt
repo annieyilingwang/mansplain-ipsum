@@ -2,15 +2,12 @@ said
 muttered
 observed
 asked
-wondered
 announced
 pronounced
 exclaimed
 put forward
-mumbled
 proclaimed
 declared
-whispered
 expounded
 grunted
 huffed
@@ -28,8 +25,6 @@ yelped
 yelled
 shouted
 screamed
-cried
-sobbed
 decreed
 noted
 shared
