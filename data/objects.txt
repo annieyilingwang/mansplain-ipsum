@@ -1,37 +1,34 @@
-the dog
-the war
-Highclere Castle
-Downton Abbey
-the abbey
-her majesty
-my Lord
-my Lady
-the solider
-the doctor
-the maid
-the housemaid
-the valet
-London
-Scotland
-England
-the lawn
-communism
-Christmas
-the cutlery
-the kitchen
-the library
-a letter
-a secret
-true love
-an affair
-the upstairs
-the downstairs
-the village
-the gentleman
-a cane
-the dowager
-an Englishman
-an American
-a poor man
-a rich man
-some fresh air
+iPhone 6s plus
+iPad Pro
+chemex 
+bicycle
+mustache 
+glasses
+apps 
+react.js
+javascript
+git
+github
+command
+new york times
+reddit 
+chrome messenger bag
+apple watch
+the atlantic 
+grantland 
+best made 
+product hunt
+tinder 
+cormac mccarthy
+the road
+catcher in the rye
+ayn rand 
+fountainhead
+hype beast
+complex mag 
+philip roth 
+jonathan franzen
+bulletproof coffee
+lifehack 
+four hour work week 
+
